@@ -5,3 +5,6 @@ full stack
 azure
 aws
 gcp
+
+spoken
+ilets
